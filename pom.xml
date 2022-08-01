@@ -19,7 +19,6 @@
     at https://sonarcloud.io
      -->
     <sonar.organization>yong-tes</sonar.organization>
-    <sonar.projectKey>SonarSource_sonarcloud-github-action-samples</sonar.projectKey>
   </properties>
 
   <dependencies>
