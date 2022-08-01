@@ -7,5 +7,5 @@ public class HelloWorld {
 public class Test {
   public String say() {
     return "Testing";
-  })
+  }
 }
